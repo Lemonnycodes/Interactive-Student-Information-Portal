@@ -66,9 +66,12 @@ This project focuses on containerization of web application, deployment on Kuber
 - **Jenkins**: Automation server for CI/CD.
 - **GitHub**: Source code repository.
 
-## Lessons Learned
+## SKILLS AQUIRED
 
 - **Containerization**: Learned how to create Docker images and manage containers.
 - **Kubernetes**: Gained experience in deploying and managing applications on Kubernetes.
 - **CI/CD**: Understood the importance of automated build and deployment pipelines.
+
+## PART 1 : https://github.com/Lemonnycodes/Student-Information-Portal-
+
 
