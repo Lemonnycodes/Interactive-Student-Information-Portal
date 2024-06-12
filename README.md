@@ -72,6 +72,6 @@ This project focuses on containerization of web application, deployment on Kuber
 - **Kubernetes**: Gained experience in deploying and managing applications on Kubernetes.
 - **CI/CD**: Understood the importance of automated build and deployment pipelines.
 
-## PART 1 : https://github.com/Lemonnycodes/Student-Information-Portal-
+# PART 1 : https://github.com/Lemonnycodes/Student-Information-Portal-
 
 
