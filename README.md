@@ -1,6 +1,5 @@
 # Student Information Portal - Full Stack Application [Part 2]
 
-GITHUB REPO FOR PART ONE : https://github.com/Lemonnycodes/AWS-S3-Homepage-and-Student-Survey-Application
 
 ## Overview
 
